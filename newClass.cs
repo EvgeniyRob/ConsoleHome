@@ -10,7 +10,7 @@ namespace ConsoleHome
     {
         public newClass() 
         {
-            Console.WriteLine("команда разработчиков мастер.!");
+            Console.WriteLine("команда разработчиков 2.!");
         }
     }
 }
